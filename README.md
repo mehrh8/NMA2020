@@ -1,6 +1,8 @@
 # Neuromatch Academy 2020 (NMA2020)
+[Presentation](https://github.com/mehrh8/NMA2020/blob/master/Uncertainty.pdf)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mehrshadhosseini28/NMA2020/blob/master/Mickey_Mouse.ipynb)
+
 
 This repo showcases my final project at NMA 2020.
 
